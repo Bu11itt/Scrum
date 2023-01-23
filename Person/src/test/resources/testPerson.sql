@@ -1,0 +1,10 @@
+--DROP ALL OBJECTS;
+--CREATE SCHEMA IF NOT EXISTS db;
+--
+--CREATE TABLE testPerson (
+--    id int AUTO_INCREMENT PRIMARY KEY,
+--    name varchar(250) null,
+--    surname varchar(250) null
+--);
+--
+--INSERT INTO testPerson (name, surname) VALUES ('Ivan', 'Petrov');
